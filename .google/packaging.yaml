@@ -9,4 +9,9 @@ categories:   [UI]
 languages:    [Java]
 solutions:    [Mobile]
 github:       android-DocumentCentricRecents
+level:        INTERMEDIATE
+icon:         screenshots/big_icon.png
+apiRefs:
+    - android:android.app.Activity
+    - android:android.content.Intent.FLAG_ACTIVITY_NEW_DOCUMENT
 license: apache2
