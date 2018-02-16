@@ -25,8 +25,8 @@ NEW_DOCUMENT, “always” equivalent to NEW_DOCUMENT | MULTIPLE_TASK, “none�
 Pre-requisites
 --------------
 
-- Android SDK 26
-- Android Build Tools v26.0.1
+- Android SDK 27
+- Android Build Tools v27.0.2
 - Android Support Repository
 
 Screenshots
